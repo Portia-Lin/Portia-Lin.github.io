@@ -43,3 +43,27 @@ header {
 .row-books > div:nth-child(n) {
 	padding: 10px;
 }
+
+.row-books .about-itm > h4 {
+	color: #007bff;
+}
+
+.row-books .about-itm > h3 {
+	color: #007bff;
+}
+
+.about-book {
+	margin-bottom: 30px;
+}
+
+.about-book .book h4 {
+	color: #007bff;
+}
+
+.about-book .book h3 {
+	color: #007bff;
+}
+
+.about-book .book-img .iimg {
+	margin-bottom: 25px;
+}
