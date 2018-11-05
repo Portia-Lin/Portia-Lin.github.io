@@ -75,7 +75,7 @@ header {
 
 .annotation {
 	overflow: hidden;
-	max-height: calc(1.5em * 9)
+	max-height: calc(1.5em * 8)
 
 }
 
@@ -196,6 +196,10 @@ header {
 }
 
 .about-book .book-description .book-annotation-text {
+	margin-bottom: 10px;
+}
+
+#book-annotation-last-text {
 	margin-bottom: 25px;
 }
 
@@ -275,10 +279,10 @@ header {
 }
 
 .about-author .author-description .author-biography-text {
-	margin-bottom: 7px;
+	margin-bottom: 10px;
 }
 
-#last-text {
+#author-biography-last-text {
 	margin-bottom: 25px;
 }
 
