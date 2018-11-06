@@ -232,6 +232,14 @@ header {
 	color: gray;
 }
 
+.about-author .author-description .author-death {
+	margin-bottom: 0;
+}
+
+.about-author .author-description .author-death-label {
+	color: gray;
+}
+
 .about-author .author-description .author-location {
 	margin-bottom: 0;
 }
